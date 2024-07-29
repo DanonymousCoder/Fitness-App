@@ -1,4 +1,4 @@
-Fitlife - Work Hard To Get Better Life
+FitHealth - Work Hard To Get Better Life
 
 
 
@@ -186,7 +186,7 @@ aria-label = Submit
 <ion-icon name="logo-instagram"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
 
-&copy; 2022 Fitlife. All Rights Reserved By codewithsadee.
+&copy; 2024 FitHealth. All Rights Reserved By unknown
 
 Privacy Policy
 Terms & Condition

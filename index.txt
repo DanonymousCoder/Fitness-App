@@ -29,7 +29,7 @@ Fitness Club
 
 Work Hard To Get Better Life
 
-Duis mollis felis quis libero dictum vehicula. Duis dictum lorem mi, a faucibus nisi eleifend eu.
+Embrace Innovation, Cultivate Success.
 
 Get Started
 
@@ -171,8 +171,8 @@ Contact Us
 
 <ion-icon name="mail" aria-hidden="true"></ion-icon>
 
-info@fitlife.com
-services@fitlife.com
+info@fithealth.com
+services@fithealth.com
 
 Our Newsletter
 
